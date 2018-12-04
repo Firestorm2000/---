@@ -7,10 +7,10 @@ regExps = {
 "exercise_6": /class=(\"|\')(.*)(\"|\')/
 };
 cssSelectors = {
-"exercise_1": "css",
-"exercise_2": "css",
-"exercise_3": "css",
-"exercise_4": "css",
+"exercise_1": "item>java.class1",
+"exercise_2": "different>.diffClass",
+"exercise_3": "java+tag",
+"exercise_4": "item~item",
 "exercise_5": "css",
 "exercise_6": "css",
 "exercise_7": "css",
