@@ -12,7 +12,7 @@ cssSelectors = {
 "exercise_3": "java+tag",
 "exercise_4": "css>item:nth-of-type(3)",
 "exercise_5": "item>tag>java:nth-child(2)",
-"exercise_6": "item>item>item>item>item:only-child",
+"exercise_6": "item>item>item>item>item",
 "exercise_7": "different>different#diffId2>java.diffClass:last-child",
 "exercise_8": "item#someId"
 };
