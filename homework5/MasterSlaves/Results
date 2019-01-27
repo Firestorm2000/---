@@ -1,14 +1,19 @@
-hash:0BC89F0F86E6A705BDA4E83138A72D7B
-length: 5
-{"input":"\t\u0018|1?","hash":"0BC89F0F86E6A705BDA4E83138A72D7B"}
-Successfully cracked code with length 5
-Time taken: 2 seconds
-
-
-hash:04000640525171EAFB843C7B485D7B40
 length: 3
-possible guess
-Sending guess to server:
-{"input":"?!?","hash":"04000640525171EAFB843C7B485D7B40"}
-Successfully cracked code with length 3
-Time taken: 2 seconds
+Time taken: 2188ms
+
+
+length: 3
+Time taken: 12112ms
+
+length: 3
+Time taken: 47938ms
+
+length: 3
+Time taken: 15364ms
+
+length: 3
+Time taken: 15846ms
+
+length: 3
+Time taken: 23327ms
+
